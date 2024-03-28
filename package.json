@@ -1,0 +1,31 @@
+{
+  "name": "quamexpedita",
+  "version": "1.0.0",
+  "description": "Interface for handling external accounts.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KearaSchaden/quamexpedita.git"
+  },
+  "keywords": [
+    "velit",
+    "aut"
+  ],
+  "author": "JerrySchimmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KearaSchaden/quamexpedita.git/issues"
+  },
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-util": "^5.1.1",
+    "eth-sig-util": "^2.0.2",
+    "events": "^1.1.1",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {
+    "extend": "^3.0.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
